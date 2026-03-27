@@ -329,3 +329,5 @@ _Generate TS for user app with annotations, choices enums, trim serializer, came
 `./manage.py generate_ts --app_name user -a -ec -t -c -ev -o "./custom_folder/"`
 
 
+Atualizado README para a task do Revelo
+
